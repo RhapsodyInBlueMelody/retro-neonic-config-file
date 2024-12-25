@@ -23,3 +23,7 @@ you will find a usr dirrectory. just copy to the /usr at root
 |------------|-------------|-----------|
 | ![Blue Image](blue-image.webp) | ![Green Image](green-image.webp) | ![Red Image](red-image.webp) |
 | Retro Blue (Megaman) | Retro Green (The Matrix) | Retro Green (ULTRAKILL) |
+
+## Disclaimer
+
+I do not own any copyright to the wallpaper used in this project. All rights to the images and wallpapers belong to their respective owners. If you are the copyright holder and would like me to remove the content, please contact me, and I will comply promptly.
