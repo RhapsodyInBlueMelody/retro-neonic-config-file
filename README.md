@@ -9,6 +9,7 @@ Here are the dependencies used in this project:
 - Dunst 'for notification'
 - Polybar
 - Rofi
+- Playerctl
 
 ## Importing `.json` Files in Cool-Retro-Term
 
