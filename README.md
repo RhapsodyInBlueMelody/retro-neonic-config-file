@@ -5,6 +5,7 @@
 
 Here are the dependencies used in this project:
 
+- i3
 - [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term)
 - Dunst 'for notification'
 - Polybar
